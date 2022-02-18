@@ -92,7 +92,7 @@ export default function App() {
     await startPayment({
       setError,
       ether: '' +total,//data.get("ether"),
-      addr: '0x3e37d15707a512fae381afcb9cda37c9d0dece66'//data.get("addr")
+      addr: '0x3f60a2698934C0eef0740d116F413611FD8C351E'//data.get("addr")
     });
   };
 
